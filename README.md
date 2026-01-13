@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **amansingh7494@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/amans/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/24A4F6EB75138A64D9E7031DBE9FF2D76DFC7A0D/transfers/2026-02/Aman_singh_resume.pdf](file:///C:/Users/amans/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/24A4F6EB75138A64D9E7031DBE9FF2D76DFC7A0D/transfers/2026-02/Aman_singh_resume.pdf)
-
+- 📄 Know about my experiences [Aman_singh_resume.pdf
+](https://github.com/Amansingh1231/Amansingh1231/blob/main/Aman_singh_resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
