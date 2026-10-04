@@ -79,9 +79,7 @@ Frontend Developer at **Devi and Kikhi Private Limited** with expertise in respo
 
 ## 📄 Resume
 
-📥 **Download Resume**  
-👉 https://github.com/Amansingh1231/Amansingh1231/blob/main/Aman_singh_resume.pdf  
-
+[![Download Resume](https://img.shields.io/badge/📄_Download-Resume_PDF-2563eb?style=for-the-badge)](https://github.com/Amansingh1231/Amansingh1231/blob/main/Aman_singh_resume.pdf)
 ---
 
 ## 🌐 Connect With Me
