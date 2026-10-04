@@ -45,6 +45,16 @@ Frontend Developer at **Devi and Kikhi Private Limited** with expertise in respo
 ![Maya](https://img.shields.io/badge/Autodesk-Maya-0696D7?style=for-the-badge)
 ### 💻 Development Environment
 ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)
+
+### 🎮 Gameplay Systems
+- Player Controllers
+- Weapon Mechanics
+- State Machines (FSM)
+- Physics & Collisions
+- Level Streaming
+- Asset Optimization
+
+  
 ## 📊 GitHub Analytics
 
 <div align="center">
