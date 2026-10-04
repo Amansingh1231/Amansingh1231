@@ -29,8 +29,6 @@ Frontend Developer at **Devi and Kikhi Private Limited** with expertise in respo
 
 ---
 
-## 🛠 Tech Stack
-
 
 ## 🛠️ Tech Stack
 
