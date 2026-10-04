@@ -36,7 +36,7 @@ Frontend Developer at **Devi and Kikhi Private Limited** with expertise in respo
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cs)
 
 ### 🎨 Design
-![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)
+![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,canva,maya)
 
 ### 🎮 Gaming & 3D Graphics
 ![My Skills](https://skillicons.dev/icons?i=unity,unreal,blender,maya)
