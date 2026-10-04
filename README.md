@@ -43,6 +43,8 @@ Frontend Developer at **Devi and Kikhi Private Limited** with expertise in respo
 ### 🎮 Gaming & 3D Graphics
 ![My Skills](https://skillicons.dev/icons?i=unity,unreal,blender)
 ![Maya](https://img.shields.io/badge/Autodesk-Maya-0696D7?style=for-the-badge)
+### 💻 Development Environment
+![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)
 ## 📊 GitHub Analytics
 
 <div align="center">
