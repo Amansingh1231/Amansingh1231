@@ -31,16 +31,17 @@ Frontend Developer at **Devi and Kikhi Private Limited** with expertise in respo
 
 ## 🛠 Tech Stack
 
-### 🌐 Web
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
-### 🎮 Gaming & Graphics
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,photoshop,illustrator" />
+## 🛠️ Tech Stack
 
-### ⚙ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+### 🌐 Web & Programming
+![My Skills](https://skillicons.dev/icons?i=html,css,c,cs)
 
----
+### 🎨 Design
+![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)
+
+### 🎮 Gaming & 3D Graphics
+![My Skills](https://skillicons.dev/icons?i=unity,unreal,blender,maya)
 
 ## 📊 GitHub Analytics
 
